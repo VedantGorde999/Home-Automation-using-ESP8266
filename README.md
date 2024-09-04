@@ -45,5 +45,4 @@ The system integrates NodeMCU ESP8266 with a 4-channel relay module, allowing co
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/home-automation-iot.git
-   cd home-automation-iot
+  git clone https://github.com/VedantGorde999/Home-Automation-using-ESP8266.git
